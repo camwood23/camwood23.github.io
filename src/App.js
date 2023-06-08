@@ -46,7 +46,7 @@ function App() {
             <Text fontSize={responsiveText}>Atlanta, Georgia</Text>
             <Center><Text fontSize={responsiveText}>Computer Science B.S.</Text></Center>
           </Grid>
-          <Heading as="h1" ml={150} letterSpacing="0.8rem" fontSize={{base:'5rem',md:'10rem','2xl':'13rem'}}>CAMERON<br/>WOOD</Heading>
+          <Heading as="h1" ml={{xl:150}} letterSpacing="0.8rem" fontSize={{base:'5rem',md:'10rem','2xl':'13rem'}}>CAMERON<br/>WOOD</Heading>
           <Flex w='full'>
             <Spacer />
             <a href="https://linkedin.com/in/cameron-wood-412708124"><SiLinkedin fontSize={responsiveText}/></a>
