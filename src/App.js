@@ -38,7 +38,7 @@ function App() {
       <Box w='100vw' h='100vh' backgroundImage="linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('image0.jpeg')" backgroundPosition="center" backgroundSize="cover" color="#ECECEC">
         <Box w='100%' h='15vh' position='relative' borderBottom='2px' pb={2}>
           <Flex h='full' align="flex-end" justify="center">
-            <Text fontSize={{base:"1.5rem",md:"2rem"}}>SENIOR SOFTWARE ENGINEER</Text>
+            <Text fontSize={{base:"1.5rem",md:"2rem"}}>FULL STACK SOFTWARE ENGINEER</Text>
           </Flex>
         </Box>
         <VStack w='full' h='85vh' alignItems='flex-start' spacing="10vh" px={{base:10,md:35,lg:40}} py={{base:5,md:10}}>
