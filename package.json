@@ -6,6 +6,7 @@
     "@chakra-ui/react": "^2.7.0",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
+    "@fontsource-variable/wix-madefor-text": "^5.1.1",
     "@fontsource/bebas-neue": "^5.0.2",
     "@fontsource/cormorant-garamond": "^5.0.2",
     "@fontsource/fondamento": "^5.0.2",
