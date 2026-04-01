@@ -53,7 +53,7 @@ function App() {
             <Center>
                 <Flex alignItems='center'>
                     <FaMapMarkerAlt />
-                    <Text fontSize={responsiveText} ml={2}>Orlando, Florida</Text>
+                    <Text fontSize={responsiveText} ml={2}>Seattle, Washington</Text>
                 </Flex>
             </Center>
             <Center><Text fontSize={responsiveText}>Computer Science B.S.</Text></Center>
